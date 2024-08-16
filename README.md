@@ -4,17 +4,14 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products.
 
-Identify and describe at least three key milestones in the evolution of software engineering.
 Milestones include the development of programming languages (e.g., Fortran, C) 
 The establishment of software engineering as a discipline in the 1960s
 The advent of structured programming in the 1970s
 The rise of agile methodologies in the 2000s.
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
 •	Requirements: Gathering and documenting user needs and system requirements.
 •	Design: Creating high-level and detailed designs of the software architecture and user interface.
 •	Implementation: Writing code and building the software according to the design specifications.
@@ -23,7 +20,6 @@ List and briefly explain the phases of the Software Development Life Cycle.
 •	Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall vs. Agile Methodologies
 Waterfall Methodology
 The Waterfall methodology is a linear and sequential approach to software development. It consists of distinct phases that must be completed in a specific order. The phases typically include:
@@ -60,8 +56,6 @@ Appropriate Use Cases
 Waterfall: Best suited for projects with stable, well-defined requirements, such as regulatory-driven systems or government contracts.
 Agile: Ideal for projects with evolving requirements, such as app development or start-up environments where user feedback drives the product.
 
-
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer: Responsible for writing code and implementing software solutions.
 Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
 Project Manager: Oversees the planning, execution, and delivery of software projects.
@@ -94,10 +88,6 @@ Importance in software quality assurance: Confirms that the software meets user 
 
 
 #Part 2: Introduction to AI and Prompt Engineering
-
-
-Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models. 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Example of vague word: Tell me about cats.
