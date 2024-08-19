@@ -65,8 +65,6 @@ Integrated Development Environments (IDEs): Software suites that provide compreh
 
 Version Control Systems (VCS): Software tools for tracking changes to source code and coordinating work among team members (e.g., Git, Subversion).
 
-
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 - Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
